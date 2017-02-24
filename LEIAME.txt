@@ -1,0 +1,44 @@
+﻿Sobre:
+
+	Mnemônico é uma ferramenta que simula a troca de mensagens entre processos. Tais trocas podem ocorrer entre processos com sends bloqueantes ou não bloqueantes e receives bloqueantes ou não bloqueantes. Há também a opção dos processos possuírem ou não buffers para o armazenamento destas mensagens.
+
+Configuração:
+
+	Para executar o programa, basta ter o Java instalado no computador. Nada mais é necessário.
+	Instalar a versão mais atualizada da JRE:
+http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html?ssSourceSiteId=otnpt
+de acordo com a especificação do computador utilizado.
+
+
+Instalação:
+
+	Não há instalação para o Mnemônico. Basta executar o arquivo .jar e o programa iniciará.
+	Caso esteja usando a versão com música, o arquivo precisa estar no mesmo diretório que o programa.
+
+Execução:
+	
+	1 - Escolha um idioma para a simulação.
+
+	2 - Caso tenha alguma dúvida teórica, veja um resumo clicando em Introdução.
+		2.1 - Há "hyperlinks" para mudar as páginas e obter uma explicação mais detalhada sobre certos conceitos.
+
+	3 - Configure a simulação.
+
+	4 - Configure os processos.
+		4.1 - Clique no botão e depois em um espaço no processo. Caso queira mudar a função a ser inserida, basta clicar no botão da nova função desejada.
+
+	5 - Escolha se deseja legendas de ajuda ou não.
+
+	6 - Escolha um método para execução (passo a passo ou automática).
+
+	7 - Divirta-se!
+
+Contatos:
+
+	Cassiano Zaghi de Oliveira	-	czoliv@gmail.com	
+	Lucas Marques Rovere		-	thelucasrovere@gmail.com
+	Luiz Machado Votto		-	luizvotto@gmail.com
+	Vitor Mello de Araujo Lima	-	vitorml34@gmail.com
+
+
+
